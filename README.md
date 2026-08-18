@@ -14,9 +14,9 @@ Este proyecto consolida únicamente los materiales que superaron la auditoría d
 
 ## Entradas principales
 
-`index.html` funciona como experiencia principal. `belentani_omega_30k.html` es el archivo conceptual masivo con más de 30,000 líneas. `belentani_archive_3k.html`, `belentani_portal_3k.html` y `belentani_studio_3k.html` son tres lecturas especializadas de más de 3,000 líneas cada una.
+`index.html` funciona como experiencia principal. `belentani_omega_30k.html` es el archivo conceptual masivo con más de 30,000 líneas. `belentani_judas_identity_120k.html` es el núcleo de identidad real de más de 115,000 líneas, construido sobre fotografías reales de Pedro y conectado al videoclip final de JUDAS. `belentani_archive_3k.html`, `belentani_portal_3k.html` y `belentani_studio_3k.html` son tres lecturas especializadas de más de 3,000 líneas cada una.
 
-Los documentos de `docs/` contienen la auditoría, la matriz de assets, la Biblia conceptual, el tratamiento del álbum JUDAS y la arquitectura de aplicación de los aspectos conceptuales. Los assets visuales publicados son locales; no se incluyen audios, stems, masters, vídeos ni documentos íntimos del Drive.
+Los documentos de `docs/` contienen la auditoría, la matriz de assets, el informe de identidad real, el análisis visual de JUDAS, la Biblia conceptual, el tratamiento del álbum y la arquitectura de aplicación de los aspectos conceptuales. El repositorio privado incluye únicamente el videoclip técnico final `media/judas/judas_identity_master.mp4` y una muestra de audio autorizada para esta experiencia; no se incluyen stems ni documentos íntimos del Drive.
 
 ## Ejecución local
 
