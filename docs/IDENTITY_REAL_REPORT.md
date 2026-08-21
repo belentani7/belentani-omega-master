@@ -4,7 +4,7 @@
 
 1. **Fisionomía**:
    - Rostro con rasgos latinos/mediterráneos marcados.
-   - Cabello: Evolución desde corte corto y peinado hacia arriba (`pedro_real_01`) hasta melena larga y rizada con barba densa (`pedro_real_perfil`).
+   - Cabello: Melena larga y rizada con barba densa, correspondiente a la referencia canónica de JUDAS (`pedro_real_perfil`).
    - Complexión: Atlética, musculatura definida.
    - Mirada: Expresiva, con párpados pesados que refuerzan la estética de "presencia lenta".
 
@@ -13,8 +13,8 @@
 
 3. **Directrices de Fidelidad**:
    - **PROHIBIDO**: Usar aproximaciones de IA que alteren los rasgos faciales o la textura del cabello.
-   - **OBLIGATORIO**: Utilizar estas imágenes como base para cualquier tratamiento visual. La "perfección" solicitada por el usuario depende de reconocerse a sí mismo en la obra.
+   - **OBLIGATORIO**: Utilizar la fotografía canónica como base para cualquier tratamiento visual. La "perfección" solicitada por el usuario depende de reconocerse a sí mismo en la obra.
 
 ## Aplicación al Proyecto
-- Las imágenes reales se integrarán en el repositorio maestro como los "Assets de Identidad Canónica".
-- El videoclip de JUDAS se construirá mediante técnicas de animación sobre estas fotos (Ken Burns, paralaje, efectos de señal) para garantizar 0% de alucinación de IA.
+- La fotografía real se integra en el repositorio maestro como el "Asset de Identidad Canónica".
+- El videoclip de JUDAS se construye mediante animación Ken Burns y tratamiento de señal sobre la fotografía canónica, garantizando 0% de sustitución facial por IA.

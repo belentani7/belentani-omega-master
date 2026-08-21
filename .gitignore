@@ -7,7 +7,6 @@ node_modules/
 *.mp3
 *.mp4
 *.mov
-!media/judas/judas_real_sequence.mp4
 !media/judas/judas_identity_master.mp4
 !media/judas/judas_audio_sample.mp3
 *.zip
