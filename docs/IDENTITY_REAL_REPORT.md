@@ -1,7 +1,6 @@
 # Informe de Identidad Real: Pedro Belentani (10/10)
 
 ## Análisis de Referencias Canónicas
-Tras la inspección de las imágenes `pedro_real_01.png` y `pedro_real_perfil.jpg` recuperadas de Google Drive, se establece el siguiente perfil de identidad absoluto:
 
 1. **Fisionomía**:
    - Rostro con rasgos latinos/mediterráneos marcados.
